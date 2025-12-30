@@ -1,6 +1,6 @@
-# AIStoryTelling
+# AI-StoryTelling
 
-**AIStoryTelling** is a small pipeline that analyzes an input story, extracts its narrative elements (themes, characters, plot beats, tone), transforms the story to fit a target world, and generates a reimagined narrative using AI-backed LLM via LangChain.
+**AI-StoryTelling** is a small pipeline that analyzes an input story, extracts its narrative elements (themes, characters, plot beats, tone), transforms the story to fit a target world, and generates a reimagined narrative using AI-backed LLM via LangChain.
 
 ---
 
