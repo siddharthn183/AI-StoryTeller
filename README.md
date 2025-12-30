@@ -1,10 +1,9 @@
-# 🎬 AI Story Re-Imagination Engine  
+# 🎬 AI-StoryTeller - An AI-Powered Story Re-Imagination Engine  
 
 The goal of this project is to:
 
 > Preserve the *essence* of a classic/public-domain story  
 > while **re-engineering it into a completely new world**  
-> using a structured AI pipeline (not just one big prompt).
 
 The result is a working system that:
 
@@ -29,7 +28,7 @@ Built using **Python + LangChain + Gemini LLM**, with small local metadata for l
 | `/docs/Solution_Documentation.pdf` | Architecture, approach, diagrams, alternatives, and design discussion |
 | `README.md` | You are here |
 
-> **Note:** Code is intentionally modular and explainable — demonstrating *system thinking*, not just prompting.
+> **Note:** Code is intentionally modular and explainable, demonstrating *system thinking*, not just prompting.
 
 ---
 
